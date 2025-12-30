@@ -1,4 +1,4 @@
-Analysis of Crime Patterns in Toronto: A Data Mining Approach to Public Safety 🚓📊
+#Analysis of Crime Patterns in Toronto: A Data Mining Approach to Public Safety 🚓📊
 
 📌 Project Overview
 This project utilizes historical Major Crime Indicators (MCI) data from the Toronto Police Service (2014-2025) to uncover hidden spatial and temporal patterns in criminal activity. By adopting the CRISP-DM framework, the analysis aims to transition policing and urban planning from a reactive stance to a proactive, evidence-based model.
